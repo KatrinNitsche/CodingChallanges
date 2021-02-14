@@ -6,3 +6,4 @@ C:\Users\Katrin Nitsche\source\Workspaces\Portfolio\CodingChallanges\src\CodingC
 C:\Users\Katrin Nitsche\source\Workspaces\Portfolio\CodingChallanges\src\CodingChallanges\CodingChallanges\obj\Debug\netcoreapp3.1\CodingChallanges.csproj.CoreCompileInputs.cache
 C:\Users\Katrin Nitsche\source\Workspaces\Portfolio\CodingChallanges\src\CodingChallanges\CodingChallanges\obj\Debug\netcoreapp3.1\CodingChallanges.dll
 C:\Users\Katrin Nitsche\source\Workspaces\Portfolio\CodingChallanges\src\CodingChallanges\CodingChallanges\obj\Debug\netcoreapp3.1\CodingChallanges.pdb
+C:\Users\Katrin Nitsche\source\Workspaces\Portfolio\CodingChallanges\src\CodingChallanges\CodingChallanges\obj\Debug\netcoreapp3.1\CodingChallanges.csprojAssemblyReference.cache
